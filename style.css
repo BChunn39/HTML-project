@@ -1,0 +1,35 @@
+
+header{
+    color:blue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:medium;
+    border: 10px solid orangered;
+    position: sticky;
+    top:0;
+    margin: 0px;
+    padding:0;
+}
+h1{
+    color:blue;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+
+h2{
+   
+    color: blue;
+    margin: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+    border:10px dotted orangered;
+}
+
+p{
+    
+    color: blue;
+    margin: 50px;
+    font-size:larger
+}
+html  {background-color: darkgreen}
+
